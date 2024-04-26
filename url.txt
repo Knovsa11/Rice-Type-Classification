@@ -1,0 +1,4 @@
+Link Deployment HuggingFace
+
+https://huggingface.co/spaces/Kelvin01/Rice_Type_Classification
+
