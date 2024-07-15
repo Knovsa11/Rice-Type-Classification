@@ -25,9 +25,13 @@ Model Inference: Testing the trained model on new data to make predictions.
 
 ## Technology Stack
 The project is developed using the following technologies:
+
 Programming Language: Python
+
 Data Analysis and Manipulation: Pandas
+
 Machine Learning: Scikit-learn
+
 Notebook Environment: Jupyter Notebook
 
 ## Files
